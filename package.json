@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ehager77/liri-bot/issues"
   },
-  "homepage": "https://github.com/ehager77/liri-bot#readme"
+  "homepage": "https://github.com/ehager77/liri-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
