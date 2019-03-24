@@ -44,14 +44,23 @@ function spotifyThisSong(song) {
         console.log("Album: " + songData.album.name);
         console.log("-----------------------");
       }
+
+      var songEntry =[
+        "Artist: " + songData.artists[0].name,
+        "Song: " + songData.name,
+        "Album: " + songData.album.name
+      ]
+
+      fs.appendFile("song-log.txt", JSON.stringify(songEntry), function (err) {
+        if (err) throw err;
+      })
+
     } else {
       console.log('Error occurred.');
-    }
+    };
 
-    fs.appendFile("log.txt", songData, function (err) {
-      if (err) throw err;
-    })
   });
+
 }
 
 

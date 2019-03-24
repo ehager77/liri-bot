@@ -73,4 +73,34 @@ Language: English
 
 IMDB Rating: 8.3/10
 
-Rotten Tomatoes Rating: 98%[object Object]
+Rotten Tomatoes Rating: 98%[object Object][object Object]
+Movie: Up
+
+Year: 2009
+
+Cast: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+
+Plot: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+
+Country: USA
+
+Language: English
+
+IMDB Rating: 8.3/10
+
+Rotten Tomatoes Rating: 98%
+Movie: The Waterboy
+
+Year: 1998
+
+Cast: Adam Sandler, Kathy Bates, Henry Winkler, Fairuza Balk
+
+Plot: A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.
+
+Country: USA
+
+Language: English
+
+IMDB Rating: 6.1/10
+
+Rotten Tomatoes Rating: 35%
