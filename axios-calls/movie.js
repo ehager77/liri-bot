@@ -1,5 +1,8 @@
+require('dotenv').config({path: __dirname + '/.env'});
 var axios = require("axios");
 var fs = require("fs");
+
+
 
 // Store all of the arguments in an array
 var Movie = function () {

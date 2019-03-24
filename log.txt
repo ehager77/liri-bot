@@ -14,3 +14,63 @@ Language: English, Swedish
 IMDB Rating: 7.8/10
 
 Rotten Tomatoes Rating: 89%
+Movie: Titanic
+
+Year: 1997
+
+Cast: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Country: USA
+
+Language: English, Swedish
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 89%
+Movie: Titanic
+
+Year: 1997
+
+Cast: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Country: USA
+
+Language: English, Swedish
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 89%
+Movie: Titanic
+
+Year: 1997
+
+Cast: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Country: USA
+
+Language: English, Swedish
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 89%
+Movie: Up
+
+Year: 2009
+
+Cast: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+
+Plot: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+
+Country: USA
+
+Language: English
+
+IMDB Rating: 8.3/10
+
+Rotten Tomatoes Rating: 98%[object Object]
