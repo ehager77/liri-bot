@@ -27,6 +27,10 @@ if (search === "movie-this") {
   console.log("Searching for concerts....");
   concertThis(term);
 } 
+else if (search === "do-what-it-says") {
+  console.log("Reading File....");
+  doWhat(term);
+} 
 
 function spotifyThisSong(song) {
   spotify.search({ type: 'track', query: song, limit: 1 }, function (error, data) {
@@ -62,7 +66,7 @@ function spotifyThisSong(song) {
 
 }
 
-function concertThis(concert) {
+function concertThis() {
 
     var queryUrl = "https://rest.bandsintown.com/artists/" + term + "/events?app_id=codingbootcamp";
 
@@ -93,9 +97,25 @@ function concertThis(concert) {
           console.log("\n---------------------------------------------------\n");
     
         }
+        fs.appendFile("song-log.txt", JSON.stringify(JS), function (err) {
+          if (err) throw err;
+        })
       }
     });
     }
+
+    //Function for command do-what-it-says; reads and splits random.txt file
+    //command: do-what-it-says
+    function doWhat() {
+      //Read random.txt file
+      fs.readFile("random.txt", "utf8", function (error, data) {
+          if (!error);
+          console.log(data.toString());
+          //split text with comma delimiter
+          var cmds = data.toString().split(',');
+      });
+  }
+
 
 
 

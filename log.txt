@@ -104,3 +104,33 @@ Language: English
 IMDB Rating: 6.1/10
 
 Rotten Tomatoes Rating: 35%
+Movie: Blade Runner
+
+Year: 1982
+
+Cast: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+
+Country: USA, Hong Kong
+
+Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+
+IMDB Rating: 8.2/10
+
+Rotten Tomatoes Rating: 90%
+Movie: Blade Runner
+
+Year: 1982
+
+Cast: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+
+Country: USA, Hong Kong
+
+Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+
+IMDB Rating: 8.2/10
+
+Rotten Tomatoes Rating: 90%
