@@ -18,17 +18,17 @@ LIRI is like iPhone's SIRI, however, while SIRI is a Speech Interpretation and R
 
 ## Technologies Used
 
-Technologies Utilized
-NodeJS
-JavaScript
-Spotify API
-Bands-in-Town API
-OMDB API
-NPM simple-node-logger
-NPM spotify-web-api-node
-NPM dotenv
-NPM spotify
-NPM request
+- Technologies Utilized
+- NodeJS
+- JavaScript
+- Spotify API
+- Bands-in-Town API
+- OMDB API
+- NPM simple-node-logger
+- NPM spotify-web-api-node
+- NPM dotenv
+- NPM spotify
+- NPM request
 
 ## Author
 
